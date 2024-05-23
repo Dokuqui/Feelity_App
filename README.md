@@ -11,7 +11,7 @@ Features
 - Articles Section: Read engaging articles related to the services.
 - Custom Navigation: Easily navigate through the app with custom header and footer buttons.
 
-![Home Screen](..assets/home.png)
+![Home Screen](./feelity-app/assets/home.jpg)
 
 ## Development
 
